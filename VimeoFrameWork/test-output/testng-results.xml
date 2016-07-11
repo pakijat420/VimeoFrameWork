@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="176" started-at="2016-07-11T15:11:51Z" finished-at="2016-07-11T15:11:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="176" started-at="2016-07-11T15:11:51Z" finished-at="2016-07-11T15:11:51Z">
+      <class name="Test_Scripts.Vimeo_StaffPick_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test_Scripts.Vimeo_StaffPick_Test@34b9fc7d]" name="setup" is-config="true" duration-ms="2132" started-at="2016-07-11T11:11:49Z" finished-at="2016-07-11T11:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchvideotest()[pri:0, instance:Test_Scripts.Vimeo_StaffPick_Test@34b9fc7d]" name="searchvideotest" duration-ms="160" started-at="2016-07-11T11:11:51Z" finished-at="2016-07-11T11:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchvideotest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test_Scripts.Vimeo_StaffPick_Test@34b9fc7d]" name="teardown" is-config="true" duration-ms="0" started-at="2016-07-11T11:11:51Z" finished-at="2016-07-11T11:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test_Scripts.Vimeo_StaffPick_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
